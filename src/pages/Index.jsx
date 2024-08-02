@@ -53,7 +53,7 @@ const Index = () => {
         </section>
 
         <section className="bg-white shadow-md rounded-lg p-6">
-          <h2 className="text-2xl font-semibold mb-4">Dog Gallery</h2>
+          <h2 className="text-2xl font-semibold mb-4">Dog Avenue</h2>
           <div className="aspect-w-16 aspect-h-9 mb-4">
             <img
               src={dogImages[currentImageIndex]}
